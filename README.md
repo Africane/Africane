@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-👨‍💻 Software Developer | Flutter Enthusiast | Debugging Detective ☕️ I write code that \*sometimes\* works on the first try (after consulting Stack Overflow... twice). Currently exploring the world of Flutter, while keeping my other developer tools close by. When I’m not battling bugs, you can find me scheming to build the next big thing... one error message at a time. Fueled by caffeine and an ever-growing bookmarks folder of programming tutorials!
+👨‍💻 Software Developer | Flutter Enthusiast | Debugging Detective ☕️ 
+
+I write code that \*sometimes\* works on the first try (after consulting Stack Overflow... twice). Currently exploring the world of Flutter, while keeping my other developer tools close by. When I’m not battling bugs, you can find me scheming to build the next big thing... one error message at a time. Fueled by caffeine and an ever-growing bookmarks folder of programming tutorials!
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [onedavidthedev@gmail.com](mailto:onedavidthedev@gmail.com)
